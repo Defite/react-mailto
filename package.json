@@ -1,19 +1,26 @@
 {
-  "name": "react-mailto",
+  "name": "@defite/react-mailto",
   "description": "A react component to create and display a mailto link.",
   "version": "0.5.0",
-  "homepage": "https://github.com/jasonbellamy/react-mailto",
+  "homepage": "https://github.com/Defite/react-mailto",
   "author": {
     "name": "Jason Bellamy",
     "email": "j@sonbellamy.com",
     "url": "http://jasonbellamy.com"
   },
+  "maintainers": [
+    {
+      "name": "Nikita Makhov",
+      "email": "me@defite.ru",
+      "url": "https://defite.ru"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasonbellamy/react-mailto.git"
+    "url": "https://github.com/Defite/react-mailto.git"
   },
   "bugs": {
-    "url": "https://github.com/jasonbellamy/react-mailto/issues"
+    "url": "https://github.com/Defite/react-mailto/issues"
   },
   "license": "MIT",
   "main": "dist/react-mailto",
